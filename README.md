@@ -33,8 +33,6 @@ chrome浏览器的话按F12，然后搜索「code」，你会发现有一个 「
 
 ![使用搬瓦工搭建VPN](https://wistbean.github.io/images/vpn5.png)
 
-接着点击「CheckOut」完成付款即可。付款的时候选择 Alipay 就可以使用支付宝付款。
-
 # 连接到搬瓦工
 
 购买完毕后你就拥有一台你自己的服务器了，接着点击Services下的MyServices，可以看到你的服务器：
